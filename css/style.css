@@ -1,0 +1,27 @@
+body{
+    width: 100%;
+    
+}
+
+#loginSection{
+    display: none;
+}
+
+#movieDBSection{
+    width: 100%;
+    display: block;
+}
+movieTable{
+    width: 100%;
+}
+movieRow{
+    width: 100%;
+}
+movieItem{
+    width: 23%;
+    
+}
+
+movieImage{
+    width: 1000px;
+}
